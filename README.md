@@ -1,4 +1,4 @@
-# Elist E-Commerce Data Analysis - Post-Pandemic Business Intelligence
+# E-Commerce Data Analysis - Post-Pandemic Business Intelligence
 
 Table of Contents
 
