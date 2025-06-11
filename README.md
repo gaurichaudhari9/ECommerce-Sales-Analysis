@@ -173,6 +173,6 @@ Elist Dataset Entity Relationship Diagram
 ***
 
 <!-- - See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook](Exploration/elist_ecommerce_analysis.xlsx). -->
-- Review SQL analysis queries in the [SQL file](Exploration/elist_ecommerce_exploration.sql).
-- Access comprehensive data cleaning, visualization, and statistical analysis in the [Python Notebook](Exploration/elist_ecommerce_analysis.ipynb).
+- Review SQL analysis queries in the [SQL file](Exploration/ecommerce_exploration.sql).
+- Access comprehensive data cleaning, visualization, and statistical analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
 
